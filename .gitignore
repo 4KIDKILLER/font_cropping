@@ -1,0 +1,8 @@
+# ---> Actionscript
+# Build and Release Folders
+
+# Other files and folders
+.settings/
+.vscode/
+
+node_modules/
